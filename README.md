@@ -13,5 +13,5 @@ curl -o- https://raw.githubusercontent.com/Miguel-Paes/scripts/refs/heads/main/f
 Execute:
 
 ```bash
-curl -o- https://raw.githubusercontent.com/Miguel-Paes/scripts/refs/heads/main/update-manjaro-aur.sh | bash
+curl -s https://raw.githubusercontent.com/Miguel-Paes/scripts/refs/heads/main/update-manjaro-aur.sh | bash
 ```
