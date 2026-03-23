@@ -15,3 +15,11 @@ Execute:
 ```bash
 curl -s https://raw.githubusercontent.com/Miguel-Paes/scripts/refs/heads/main/update-manjaro-aur.sh | bash
 ```
+
+## Instalar o NVM e o NodeJS
+
+Execute:
+
+```bash
+curl -s https://raw.githubusercontent.com/Miguel-Paes/scripts/refs/heads/main/install-nvmnode.sh | bash
+```
